@@ -7,3 +7,6 @@ print("Hello, ", name) #output below:
 SERVER Welcome! Please enter your name to proceed!
 CLIENT Adrian #user inputs their name
 SERVER Hello, Adrian
+
+CREATED: August 6 2025
+UPLOADED: August 6 2025
